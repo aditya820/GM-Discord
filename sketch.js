@@ -30,16 +30,16 @@ var cubeRocket;
 var cube;
 
 function preload(){
-    titleImage = loadImage("Images/Title.png");
-    buttonNotPressed = loadImage("Images/StartNotPressed.jpg");
-    buttonPressed = loadImage("Images/StartPressed.jpg");
-    cubeImage = loadImage("Images/Cube.png")
-    backGroundImage = loadImage("Images/Walls.jpg")
-    portalImage1 = loadImage("Images/Portal2.jpg");
-    portalImage2 = loadImage("Images/Portal.jpg");
-    cubeRocketImage = loadImage("Images/Rocket.jpg");
-    spikeImage = loadImage("Images/Spike Image.png");
-    coinImage = loadImage("Images/Coin.jpg");
+    titleImage = loadImage("Title.png");
+    buttonNotPressed = loadImage("StartNotPressed.jpg");
+    buttonPressed = loadImage("StartPressed.jpg");
+    cubeImage = loadImage("Cube.png")
+    backGroundImage = loadImage("IWalls.jpg")
+    portalImage1 = loadImage("Portal2.jpg");
+    portalImage2 = loadImage("Portal.jpg");
+    cubeRocketImage = loadImage("Rocket.jpg");
+    spikeImage = loadImage("Spike Image.png");
+    coinImage = loadImage("Coin.jpg");
 }
 
 function setup(){
